@@ -31,8 +31,8 @@ media
 
 
 ## signature
-
-+ docmenti
++ autenti
++ documenti
 + from foundation
 + oceny
 + popdisy, autoryzacja
