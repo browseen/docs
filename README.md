@@ -30,3 +30,11 @@ text
 media
 
 
+## signature
+
++ docmenti
++ from foundation
++ oceny
++ popdisy, autoryzacja
++ blockhain
+
