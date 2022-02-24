@@ -25,6 +25,18 @@ webpage full html.
 + Social media news
 
 
+## TODO:
+
++ przeglądarkę na silniku np chrome i DNS
++ https://github.com/chromium/chromium
+
+
+jak ktoś chce oglądać archiwum to musiałby skorzystać z wtyczki albo browsera na silniku chromium
+można poszerzyć ilośc uslug dla społeczeności
+
+5G - prywatne sieci lokalne, adaoptują aktualne zasoby netu i usług tam się znajdujących do specyficznych potrzeb
+
+
 
 ## Terminal
 
