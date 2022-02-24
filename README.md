@@ -25,6 +25,16 @@ webpage full html.
 + Social media news
 
 
+## Usługi
++ dla testerów oprogramowania z analizą
++ sprzedaż licencji wielo enginowego rozwiązania
++ meta - analityka
++ szukanie określonych błędów
++ meta błedy
++ 
+
+
+
 ## TODO:
 
 + przeglądarkę na silniku np chrome i DNS
